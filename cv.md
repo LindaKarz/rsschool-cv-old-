@@ -27,7 +27,7 @@ Two years ago, I became interested in the IT field and started testing in my fre
 |       GitHub       | abikity to work in a multitasking regimen |
 |       VS Code      |             stress resistance             |
 
-**********************
+********************
 ## Experience
 * July 2020 - March 2022 Crowdesting platform testIO. Manual Tester.
 *******************
