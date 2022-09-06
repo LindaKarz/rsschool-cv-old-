@@ -9,13 +9,13 @@
 
 ### Discord: @LindaK
 
-****************
+***************
 ## About me:
 
 My name is Linda. I have a higher pharmaceutical education and have been working in the pharmaceutical field for the last 7 years.
 Two years ago, I became interested in the IT field and started testing in my free time on the crowdesting platform testIO. Then I was fascinated by layout and programming, which I began to study on my own. In this course, I hope to improve my skills in programming and gain a lot of new knowledge.
 
-****************
+***************
 
 
 ## My skills:
